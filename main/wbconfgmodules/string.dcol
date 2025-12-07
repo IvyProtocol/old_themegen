@@ -1,0 +1,50 @@
+{string_module_1} = pry1
+{string_module_2} = pry2
+{string_module_3} = pry3
+{string_module_4} = pry4
+
+{string_module_1_txt} = txt1
+{string_module_2_txt} = txt2
+{string_module_3_txt} = txt3
+{string_module_4_txt} = txt4
+
+{string_module_1_primary1} = 1xa1
+{string_module_1_primary2} = 1xa2
+{string_module_1_primary3} = 1xa3
+{string_module_1_primary4} = 1xa4
+{string_module_1_primary5} = 1xa5
+{string_module_1_primary6} = 1xa6
+{string_module_1_primary7} = 1xa7
+{string_module_1_primary8} = 1xa8
+{string_module_1_primary9} = 1xa9
+
+{string_module_2_primary1} = 2xa1
+{string_module_2_primary2} = 2xa2
+{string_module_2_primary3} = 2xa3
+{string_module_2_primary4} = 2xa4
+{string_module_2_primary5} = 2xa5
+{string_module_2_primary6} = 2xa6
+{string_module_2_primary7} = 2xa7
+{string_module_2_primary8} = 2xa8
+{string_module_2_primary9} = 2xa9
+
+{string_module_3_primary1} = 3xa1
+{string_module_3_primary2} = 3xa2
+{string_module_3_primary3} = 3xa3
+{string_module_3_primary4} = 3xa4
+{string_module_3_primary5} = 3xa5
+{string_module_3_primary6} = 3xa6
+{string_module_3_primary7} = 3xa7
+{string_module_3_primary8} = 3xa8
+{string_module_3_primary9} = 3xa9
+
+{string_module_4_primary1} = 4xa1
+{string_module_4_primary2} = 4xa2
+{string_module_4_primary3} = 4xa3
+{string_module_4_primary4} = 4xa4
+{string_module_4_primary5} = 4xa5
+{string_module_4_primary6} = 4xa6
+{string_module_4_primary7} = 4xa7
+{string_module_4_primary8} = 4xa8
+{string_module_4_primary9} = 4xa9
+
